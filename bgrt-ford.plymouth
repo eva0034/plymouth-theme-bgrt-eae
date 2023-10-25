@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=BGRT-MI
-Description=Based on a theme designed by jimmac that features a simple spinner. This one has Xiaomi progress bar instead.
+Name=BGRT-FORD
+Description=Based on a theme designed by jimmac that features a simple spinner. This one has FORD gif logo instead.
 ModuleName=two-step
 
 [two-step]
 Font=Noto Sans 12
 TitleFont=Noto Sans Light 30
-ImageDir=/usr/share/plymouth/themes/bgrt-mi
+ImageDir=/usr/share/plymouth/themes/bgrt-ford
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.682
 TitleHorizontalAlignment=.5
